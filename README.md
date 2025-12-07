@@ -1,9 +1,7 @@
-## Hi there 👋
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 </div>
+## I luv sciency stuff
 <!--
 **XPZ4Y/XPZ4Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
