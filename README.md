@@ -3,6 +3,6 @@
 </p>
 
 
-<img src="https://skillicons.dev/icons?perline=15&i=js,ts,astrogit,mongodb" />
+<img src="https://skillicons.dev/icons?perline=15&i=js,ts,py,next,astro,git,mongodb" />
 
 
