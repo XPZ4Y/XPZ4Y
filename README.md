@@ -1,8 +1,8 @@
 <p align="center">
 
-September 
-How the leaves fell,
-Orange sky, I could tell...
+<h2>September</h2>
+<h2>How the leaves fell,</h2>
+<h2>Orange sky, I could tell...</h2>
 
 </p>
 
